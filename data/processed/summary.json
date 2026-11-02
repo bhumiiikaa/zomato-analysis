@@ -1,0 +1,203 @@
+{
+  "n_restaurants": 12248,
+  "n_rated": 9064,
+  "mean_rating": 3.62,
+  "median_cost_inr": 400.0,
+  "top_rated_cuisines": [
+    [
+      "Japanese",
+      4.19
+    ],
+    [
+      "Mediterranean",
+      4.17
+    ],
+    [
+      "European",
+      4.12
+    ],
+    [
+      "Asian",
+      4.06
+    ],
+    [
+      "Steak",
+      4.03
+    ]
+  ],
+  "most_common_cuisines": [
+    [
+      "North Indian",
+      4908
+    ],
+    [
+      "Chinese",
+      3504
+    ],
+    [
+      "South Indian",
+      2358
+    ],
+    [
+      "Fast Food",
+      2096
+    ],
+    [
+      "Biryani",
+      1715
+    ]
+  ],
+  "gap_cuisines": [
+    [
+      "Japanese",
+      4.19,
+      37
+    ],
+    [
+      "Mediterranean",
+      4.17,
+      78
+    ],
+    [
+      "European",
+      4.12,
+      89
+    ],
+    [
+      "Asian",
+      4.06,
+      164
+    ],
+    [
+      "Steak",
+      4.03,
+      73
+    ]
+  ],
+  "top_dishes": [
+    [
+      "Pasta",
+      470
+    ],
+    [
+      "Burgers",
+      455
+    ],
+    [
+      "Biryani",
+      401
+    ],
+    [
+      "Pizza",
+      369
+    ],
+    [
+      "Coffee",
+      334
+    ],
+    [
+      "Paratha",
+      330
+    ],
+    [
+      "Cocktails",
+      312
+    ],
+    [
+      "Sandwiches",
+      271
+    ]
+  ],
+  "top_hotspots": [
+    [
+      "Whitefield",
+      851
+    ],
+    [
+      "BTM",
+      724
+    ],
+    [
+      "Electronic City",
+      718
+    ],
+    [
+      "HSR",
+      686
+    ],
+    [
+      "Marathahalli",
+      664
+    ]
+  ],
+  "top_rated_locations": [
+    [
+      "Lavelle Road",
+      4.06,
+      50
+    ],
+    [
+      "St. Marks Road",
+      3.93,
+      34
+    ],
+    [
+      "Koramangala 5th Block",
+      3.91,
+      237
+    ],
+    [
+      "Church Street",
+      3.91,
+      50
+    ],
+    [
+      "Richmond Road",
+      3.84,
+      66
+    ]
+  ],
+  "rho_cost": 0.27,
+  "rho_votes": 0.63,
+  "rating_by_band": {
+    "Budget (up to 300)": 3.54,
+    "Mid (301-600)": 3.57,
+    "Upper-mid (601-1000)": 3.71,
+    "Premium (1000+)": 4.07
+  },
+  "online_order": {
+    "no": 3.58,
+    "yes": 3.64
+  },
+  "book_table": {
+    "no": 3.57,
+    "yes": 4.09
+  },
+  "top_rest_types": [
+    [
+      "Fine Dining",
+      4.12,
+      78
+    ],
+    [
+      "Casual Dining, Bar",
+      3.92,
+      134
+    ],
+    [
+      "Lounge",
+      3.82,
+      59
+    ],
+    [
+      "Dessert Parlor",
+      3.8,
+      447
+    ],
+    [
+      "Cafe",
+      3.73,
+      481
+    ]
+  ]
+}
